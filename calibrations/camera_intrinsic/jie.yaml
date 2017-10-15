@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [337.34269341196494, 0.0, 312.05583048554143, 0.0, 332.6676575288925, 216.69082918015621,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: jie/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2904106796502977, 0.06477447605737278, 0.00046105728397460177, 0.002900663048222043,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [239.4875030517578, 0.0, 316.065647493102, 0.0, 0.0, 267.0900573730469, 204.35888180759503,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
